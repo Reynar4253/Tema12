@@ -10,5 +10,3 @@ In the world of classes, implicit conversions can be controlled by means of thre
 
 The type-cast operator uses a particular syntax: it uses the operator keyword followed by the destination type and an empty set of parentheses. Notice that the return type is the destination type and thus is not specified before the operator keyword.
 
-
-Adaugarea unei linii in plus, pentru verificarea functiei diff. A se sterge in branch-ul TypeConv.
